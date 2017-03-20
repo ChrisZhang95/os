@@ -1,0 +1,6 @@
+
+--This line, and those below, will be ignored--
+
+M    kern/asst1/catlock.c
+M    kern/asst1/stoplight.c
+M    kern/thread/synch.c
